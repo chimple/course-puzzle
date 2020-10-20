@@ -1,0 +1,2 @@
+# course-puzzle
+Puzzle curriculum
