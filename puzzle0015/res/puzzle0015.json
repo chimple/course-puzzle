@@ -1,0 +1,32 @@
+{
+  "rows": [
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "necklace4_piece.png",
+      "necklace3_piece.png",
+      "necklace1_piece.png",
+      "necklace2_piece.png",
+      "necklace4_set.png",
+      "necklace3_set.png",
+      "necklace1_set.png",
+      "necklace2_set.png"
+    ],
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "woodblock_7.png",
+      "woodblock_4.png",
+      "woodblock_5.png",
+      "woodblock_2.png",
+      "7_object_blue.png",
+      "4_object_blue.png",
+      "5_object_blue.png",
+      "2_object_blue.png"
+    ]
+  ]
+}

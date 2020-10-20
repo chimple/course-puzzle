@@ -1,0 +1,32 @@
+{
+  "rows": [
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "triangle_halfleft.png",
+      "star_halfleft.png",
+      "snowman_halfleft.png",
+      "addition_halfleft.png",
+      "triangle_blue.png",
+      "star_blue.png",
+      "snowman_blue.png",
+      "addition_blue.png"
+    ],
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "triangle_blue.png",
+      "star_blue.png",
+      "snowman_blue.png",
+      "addition_blue.png",
+      "triangle_halfright.png",
+      "star_halfright.png",
+      "snowman_halfright.png",
+      "addition_halfright.png"
+    ]
+  ]
+}

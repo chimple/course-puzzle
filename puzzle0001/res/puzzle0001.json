@@ -1,0 +1,32 @@
+{
+  "rows": [
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "crayon_blue.png",
+      "cap_green.png",
+      "doll_yellow.png",
+      "horse_orange.png",
+      "crayon_blue.png",
+      "cap_green.png",
+      "doll_yellow.png",
+      "horse_orange.png"
+    ],
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "shoes_blue.png",
+      "shoes_orange.png",
+      "shoes_purple.png",
+      "shoes_red.png",
+      "balloon_blue.png",
+      "balloon_orange.png",
+      "balloon_purple.png",
+      "balloon_red.png"
+    ]
+  ]
+}

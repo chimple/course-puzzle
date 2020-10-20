@@ -1,0 +1,32 @@
+{
+  "rows": [
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "stick5_set.png",
+      "stick4_set.png",
+      "stick2_set.png",
+      "stick1_set.png",
+      "stick5_piece.png",
+      "stick4_piece.png",
+      "stick2_piece.png",
+      "stick1_piece.png"
+    ],
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "woodblock_6.png",
+      "woodblock_4.png",
+      "woodblock_3.png",
+      "woodblock_1.png",
+      "6_object_blue.png",
+      "4_object_blue.png",
+      "3_object_blue.png",
+      "1_object_blue.png"
+    ]
+  ]
+}

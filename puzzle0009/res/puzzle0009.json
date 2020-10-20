@@ -1,0 +1,32 @@
+{
+  "rows": [
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "frame_7.png",
+      "frame_5.png",
+      "frame_3.png",
+      "frame_6.png",
+      "dotpattern_7.png",
+      "dotpattern_5.png",
+      "dotpattern_3.png",
+      "dotpattern_6.png"
+    ],
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "dotpattern_7.png",
+      "dotpattern_5.png",
+      "dotpattern_3.png",
+      "dotpattern_6.png",
+      "7_object_red.png",
+      "5_object_red.png",
+      "3_object_red.png",
+      "6_object_red.png"
+    ]
+  ]
+}

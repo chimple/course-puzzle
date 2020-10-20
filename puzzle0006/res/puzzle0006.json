@@ -1,0 +1,32 @@
+{
+  "rows": [
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "match_triangle.png",
+      "match_square.png",
+      "match_pentagon.png",
+      "match_hexagon.png",
+      "dotline_triangle.png",
+      "dotline_square.png",
+      "dotline_pentagon.png",
+      "dotline_hexagon.png"
+    ],
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "dotline_triangle.png",
+      "dotline_square.png",
+      "dotline_pentagon.png",
+      "dotline_hexagon.png",
+      "triangle_orange.png",
+      "square_orange.png",
+      "pentagon_orange.png",
+      "hexagon_orange.png"
+    ]
+  ]
+}

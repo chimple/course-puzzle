@@ -1,0 +1,32 @@
+{
+  "rows": [
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "star_dotcolor.png",
+      "heart_dotcolor.png",
+      "crescent_dotcolor.png",
+      "house_dotcolor.png",
+      "star_purple.png",
+      "heart_purple.png",
+      "crescent_purple.png",
+      "house_purple.png"
+    ],
+    [
+      "matchbox",
+      "1",
+      "Description",
+      "8.0",
+      "star_purple.png",
+      "heart_purple.png",
+      "crescent_purple.png",
+      "house_purple.png",
+      "star_check.png",
+      "heart_check.png",
+      "crescent_check.png",
+      "house_check.png"
+    ]
+  ]
+}
