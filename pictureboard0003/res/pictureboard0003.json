@@ -20,36 +20,6 @@
       "ap_puzzle6_squirrel3_puzzle.png",
       "1492",
       "280"
-    ],
-    [
-      "pictureboard",
-      "1",
-      "Description",
-      "Turtle",
-      "ap2_puzzle3_background.jpg",
-      "1",
-      "",
-      "turtle.mp3",
-      "ap2_puzzle3_turtle_puzzle.png",
-      "548",
-      "156"
-    ],
-    [
-      "pictureboard",
-      "1",
-      "Description",
-      "Zebra",
-      "ap2_puzzle12_background.jpg",
-      "2",
-      "",
-      "zebra.mp3",
-      "ap2_puzzle12_zebra1_puzzle.png",
-      "570",
-      "98",
-      "",
-      "ap2_puzzle12_zebra2_puzzle.png",
-      "1030",
-      "98"
     ]
   ]
 }
