@@ -4,7 +4,7 @@
   "isBundle": true,
   "bundleName": "",
   "priority": 1,
- "compressionType": {
+  "compressionType": {
     "android": "merge_all_json",
     "web-mobile": "merge_all_json",
     "web-desktop": "merge_all_json"
