@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2c8dbdd4-f177-42cc-842d-a8684519e90b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 168,
+  "height": 224,
+  "platformSettings": {},
+  "subMetas": {
+    "findthematch_lv2_plants3": {
+      "ver": "1.0.4",
+      "uuid": "1a7ddd64-0c6c-4fad-b498-07e863594915",
+      "rawTextureUuid": "2c8dbdd4-f177-42cc-842d-a8684519e90b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 6.5,
+      "trimX": 21,
+      "trimY": 64,
+      "width": 125,
+      "height": 83,
+      "rawWidth": 168,
+      "rawHeight": 224,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
