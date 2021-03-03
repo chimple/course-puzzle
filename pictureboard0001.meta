@@ -1,10 +1,6 @@
 {
   "ver": "1.1.2",
-<<<<<<< Updated upstream
-  "uuid": "85106e82-4017-4763-a9c0-e8c2cad87cd1",
-=======
   "uuid": "ae816206-408c-4430-81a6-5259dc8b3445",
->>>>>>> Stashed changes
   "isBundle": true,
   "bundleName": "",
   "priority": 1,
