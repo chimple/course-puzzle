@@ -4,28 +4,6 @@
       "pictureboard",
       "1",
       "Description",
-<<<<<<< Updated upstream
-      "Cow",
-      "ap_puzzle7_background.jpg",
-      "4",
-      "_ap_puzzle7_mask",
-      "cow.mp3",
-      "ap_puzzle7_cow1_puzzle.png",
-      "436",
-      "580",
-      "",
-      "ap_puzzle7_cow2_puzzle.png",
-      "760",
-      "22",
-      "",
-      "ap_puzzle7_cow3_puzzle.png",
-      "1184",
-      "580",
-      "",
-      "ap_puzzle7_cow4_puzzle.png",
-      "1302",
-      "72"
-=======
       "Penguin",
       "ap2_puzzle6_background.jpg",
       "2",
@@ -38,7 +16,6 @@
       "ap2_puzzle6_mom_puzzle.png",
       "374",
       "30"
->>>>>>> Stashed changes
     ]
     ]
 }

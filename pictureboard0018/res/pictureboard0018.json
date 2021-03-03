@@ -4,20 +4,6 @@
       "pictureboard",
       "1",
       "Description",
-<<<<<<< Updated upstream
-      "Rabbit and Flower",
-      "ap2_puzzle8_background.jpg",
-      "2",
-      "",
-      "rabbit_and_flower.mp3",
-      "ap2_puzzle8_flower_puzzle.png",
-      "572",
-      "106",
-      "",
-      "ap2_puzzle8_rabbit_puzzle.png",
-      "1228",
-      "66"
-=======
       "Cow",
       "ap_puzzle7_background.jpg",
       "4",
@@ -38,7 +24,6 @@
       "ap_puzzle7_cow4_puzzle.png",
       "1302",
       "72"
->>>>>>> Stashed changes
     ]
     ]
 }

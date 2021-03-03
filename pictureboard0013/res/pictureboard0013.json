@@ -4,16 +4,6 @@
       "pictureboard",
       "1",
       "Description",
-<<<<<<< Updated upstream
-      "Lizard",
-      "ap2_puzzle2_background.jpg",
-      "1",
-      "",
-      "lizard.mp3",
-      "ap2_puzzle2_lizard_puzzle.png",
-      "340",
-      "250"
-=======
       "Zebra",
       "ap2_puzzle12_background.jpg",
       "2",
@@ -26,7 +16,6 @@
       "ap2_puzzle12_zebra2_puzzle.png",
       "1030",
       "98"
->>>>>>> Stashed changes
     ]
     ]
 }

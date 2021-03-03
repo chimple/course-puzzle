@@ -4,20 +4,6 @@
       "pictureboard",
       "1",
       "Description",
-<<<<<<< Updated upstream
-      "Zebra",
-      "ap2_puzzle12_background.jpg",
-      "2",
-      "",
-      "zebra.mp3",
-      "ap2_puzzle12_zebra1_puzzle.png",
-      "570",
-      "98",
-      "",
-      "ap2_puzzle12_zebra2_puzzle.png",
-      "1030",
-      "98"
-=======
       "Monkeys and Crocodile",
       "ap_puzzle9_background.jpg",
       "5",
@@ -42,7 +28,6 @@
       "ap_puzzle9_monkey4_puzzle.png",
       "1966",
       "672"
->>>>>>> Stashed changes
     ]
     ]
 }
