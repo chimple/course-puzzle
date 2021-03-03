@@ -4,6 +4,7 @@
       "pictureboard",
       "1",
       "Description",
+<<<<<<< Updated upstream
       "Monkeys and Crocodile",
       "ap_puzzle9_background.jpg",
       "5",
@@ -28,6 +29,24 @@
       "ap_puzzle9_monkey4_puzzle.png",
       "1966",
       "672"
+=======
+      "Elephants",
+      "ap_puzzle4_background.jpg",
+      "3",
+      "",
+      "elephants.mp3",
+      "ap_puzzle4_elephant1_puzzle.png",
+      "146",
+      "96",
+      "",
+      "ap_puzzle4_elephant2_puzzle.png",
+      "1056",
+      "173",
+      "",
+      "ap_puzzle4_elephant3_puzzle.png",
+      "1736",
+      "96"
+>>>>>>> Stashed changes
     ]
     ]
 }

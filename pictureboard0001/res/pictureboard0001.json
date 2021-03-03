@@ -1,5 +1,6 @@
 {
   "rows": [
+<<<<<<< Updated upstream
     [
       "pictureboard",
       "1",
@@ -22,4 +23,20 @@
       "530"
     ]
   ]
+=======
+  	[
+      "pictureboard",
+      "1",
+      "Description",
+      "Lizard",
+      "ap2_puzzle2_background.jpg",
+      "1",
+      "",
+      "lizard.mp3",
+      "ap2_puzzle2_lizard_puzzle.png",
+      "340",
+      "250"
+    ]
+    ]
+>>>>>>> Stashed changes
 }
