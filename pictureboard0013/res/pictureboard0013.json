@@ -4,14 +4,18 @@
       "pictureboard",
       "1",
       "Description",
-      "Lizard",
-      "ap2_puzzle2_background.jpg",
-      "1",
+      "Zebra",
+      "ap2_puzzle12_background.jpg",
+      "2",
       "",
-      "lizard.mp3",
-      "ap2_puzzle2_lizard_puzzle.png",
-      "340",
-      "250"
+      "zebra.mp3",
+      "ap2_puzzle12_zebra1_puzzle.png",
+      "570",
+      "98",
+      "",
+      "ap2_puzzle12_zebra2_puzzle.png",
+      "1030",
+      "98"
     ]
     ]
 }

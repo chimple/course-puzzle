@@ -1,25 +1,17 @@
 {
   "rows": [
-    [
+  	[
       "pictureboard",
       "1",
       "Description",
-      "Eagle",
-      "ap_puzzle5_background.jpg",
-      "3",
+      "Lizard",
+      "ap2_puzzle2_background.jpg",
+      "1",
       "",
-      "eagle.mp3",
-      "ap_puzzle5_eagle1_puzzle.png",
-      "106",
-      "236",
-      "",
-      "ap_puzzle5_eagle2_puzzle.png",
-      "730",
-      "166",
-      "",
-      "ap_puzzle5_eagle3_puzzle.png",
-      "1115",
-      "530"
+      "lizard.mp3",
+      "ap2_puzzle2_lizard_puzzle.png",
+      "340",
+      "250"
     ]
   ]
 }
