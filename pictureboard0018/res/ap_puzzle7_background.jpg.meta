@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "45134426-6c0a-42db-b305-af34652f8cf4",
+  "uuid": "7424ff83-707c-494d-a781-40d4faee4c9e",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "ap_puzzle7_background": {
       "ver": "1.0.4",
-      "uuid": "70b374e8-bfdb-48fd-a9a0-de89ff45310e",
-      "rawTextureUuid": "45134426-6c0a-42db-b305-af34652f8cf4",
+      "uuid": "b4c0ecfc-a48c-4ca2-8c5f-f23900201194",
+      "rawTextureUuid": "7424ff83-707c-494d-a781-40d4faee4c9e",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

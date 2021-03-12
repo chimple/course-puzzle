@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "a324e109-3baa-431d-bf85-7381c193a9d3",
+  "uuid": "e44d6791-89a7-4f98-86ec-86a71940f01e",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "ap_puzzle9_crocodile_puzzle": {
       "ver": "1.0.4",
-      "uuid": "04ae3b74-99b9-45b3-9591-4510d3690ede",
-      "rawTextureUuid": "a324e109-3baa-431d-bf85-7381c193a9d3",
+      "uuid": "d9c0c331-25e0-423e-a2f0-bff1e73a2351",
+      "rawTextureUuid": "e44d6791-89a7-4f98-86ec-86a71940f01e",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

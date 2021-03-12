@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "e1251d5b-fc06-41a5-a1b4-0c4fb6569a66",
+  "uuid": "b7fe2dde-9521-469f-9179-5dd20e381e55",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "ap_puzzle7_cow4_puzzle": {
       "ver": "1.0.4",
-      "uuid": "3104f33d-8590-4c08-9ebb-a21718f26b17",
-      "rawTextureUuid": "e1251d5b-fc06-41a5-a1b4-0c4fb6569a66",
+      "uuid": "efcd4cc1-9fd1-4d24-87ac-e769fded5a18",
+      "rawTextureUuid": "b7fe2dde-9521-469f-9179-5dd20e381e55",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

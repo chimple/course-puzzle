@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "07f14481-12e7-4b51-a4c2-1686bfd94cb1",
+  "uuid": "f94232da-c7c8-487a-b170-f2d6df85b792",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "ap2_puzzle4_mouse_puzzle": {
       "ver": "1.0.4",
-      "uuid": "e0297fa5-c42b-43ef-963e-4a77be37b94b",
-      "rawTextureUuid": "07f14481-12e7-4b51-a4c2-1686bfd94cb1",
+      "uuid": "b2ad95f4-4267-45ef-a153-622c79bb3749",
+      "rawTextureUuid": "f94232da-c7c8-487a-b170-f2d6df85b792",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "e96fc62e-fd63-494c-8ede-df2c0dd0149c",
+  "uuid": "a8aa8939-5060-4822-b8d8-cb4cfe6719bd",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "ap2_puzzle5_dog_puzzle": {
       "ver": "1.0.4",
-      "uuid": "53981110-1988-4965-befd-5cd015c0fbc3",
-      "rawTextureUuid": "e96fc62e-fd63-494c-8ede-df2c0dd0149c",
+      "uuid": "59a3ad75-7145-40b1-9532-d3b0285122b5",
+      "rawTextureUuid": "a8aa8939-5060-4822-b8d8-cb4cfe6719bd",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

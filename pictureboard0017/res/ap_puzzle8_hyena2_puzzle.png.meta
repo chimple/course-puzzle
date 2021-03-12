@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "f182479c-a033-4d2d-90d4-ecc317794a26",
+  "uuid": "ecaf54fa-8700-49a5-a04f-a3841556d94e",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "ap_puzzle8_hyena2_puzzle": {
       "ver": "1.0.4",
-      "uuid": "990f73d8-f2ba-4096-ac78-fcea8ecc357d",
-      "rawTextureUuid": "f182479c-a033-4d2d-90d4-ecc317794a26",
+      "uuid": "b6a7153a-599b-434f-a69d-3a7408ccc5b2",
+      "rawTextureUuid": "ecaf54fa-8700-49a5-a04f-a3841556d94e",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

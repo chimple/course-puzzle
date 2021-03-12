@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "15c07b91-36f9-416c-a48d-9580435f64ca",
+  "uuid": "93d8d528-632e-4729-ba95-b6ffbe1de242",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "ap2_puzzle8_flower_puzzle": {
       "ver": "1.0.4",
-      "uuid": "220cb365-6bde-4507-bac7-fd760d11c4aa",
-      "rawTextureUuid": "15c07b91-36f9-416c-a48d-9580435f64ca",
+      "uuid": "706023b0-e5e8-456b-b37e-e19bf6c959af",
+      "rawTextureUuid": "93d8d528-632e-4729-ba95-b6ffbe1de242",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

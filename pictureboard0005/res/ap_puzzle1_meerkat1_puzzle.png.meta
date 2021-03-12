@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "bf406873-9c7e-47ad-b439-0ae890cd2535",
+  "uuid": "6f898b2d-2e68-4102-a22e-b76a563505ce",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "ap_puzzle1_meerkat1_puzzle": {
       "ver": "1.0.4",
-      "uuid": "40dfe8be-9a9b-411f-80f2-db90df40347c",
-      "rawTextureUuid": "bf406873-9c7e-47ad-b439-0ae890cd2535",
+      "uuid": "473448a0-c03a-44f1-a5a2-c493ca7426ea",
+      "rawTextureUuid": "6f898b2d-2e68-4102-a22e-b76a563505ce",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

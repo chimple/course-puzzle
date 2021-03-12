@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "21be5783-ab45-4184-bfc0-d619e3398365",
+  "uuid": "308f93eb-d1c8-435f-a07d-ebd340976cc7",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "ap2_puzzle12_zebra1_puzzle": {
       "ver": "1.0.4",
-      "uuid": "4de32435-06fc-4122-a858-abefa95f0544",
-      "rawTextureUuid": "21be5783-ab45-4184-bfc0-d619e3398365",
+      "uuid": "143ec806-8602-4344-b524-ca693ed5a358",
+      "rawTextureUuid": "308f93eb-d1c8-435f-a07d-ebd340976cc7",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
