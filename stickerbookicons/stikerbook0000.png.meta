@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9a69b007-b529-41d4-8bd7-5e53cebee2ea",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 165,
+  "height": 165,
+  "platformSettings": {},
+  "subMetas": {
+    "stikerbook0000": {
+      "ver": "1.0.4",
+      "uuid": "7c8f63ee-3419-425a-bf03-40eb3eea52bd",
+      "rawTextureUuid": "9a69b007-b529-41d4-8bd7-5e53cebee2ea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -3,
+      "trimX": 12,
+      "trimY": 24,
+      "width": 141,
+      "height": 123,
+      "rawWidth": 165,
+      "rawHeight": 165,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
