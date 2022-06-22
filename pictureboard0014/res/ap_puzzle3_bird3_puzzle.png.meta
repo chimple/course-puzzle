@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "37aed714-012a-42e9-ac56-270822e7651b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap_puzzle3_bird3_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f7831c9e-4220-4990-bdaa-9e72ce4526f1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "37aed714-012a-42e9-ac56-270822e7651b",
       "trimType": "auto",
       "trimThreshold": 1,

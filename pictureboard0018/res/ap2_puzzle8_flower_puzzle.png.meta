@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "93d8d528-632e-4729-ba95-b6ffbe1de242",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap2_puzzle8_flower_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "706023b0-e5e8-456b-b37e-e19bf6c959af",
+      "importer": "sprite-frame",
       "rawTextureUuid": "93d8d528-632e-4729-ba95-b6ffbe1de242",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "963130a9-f6b2-4cc4-8829-7cad36da83ae",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "box-outline-tutorial": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "75869316-2742-45be-8428-8db72f87c597",
+      "importer": "sprite-frame",
       "rawTextureUuid": "963130a9-f6b2-4cc4-8829-7cad36da83ae",
       "trimType": "auto",
       "trimThreshold": 1,

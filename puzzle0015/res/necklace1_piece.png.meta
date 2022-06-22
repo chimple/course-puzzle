@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "567195c6-01f4-4625-85d2-7c9f4ccbc496",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "necklace1_piece": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4d8cb849-b283-4d79-bd2a-bfe3e000ccca",
+      "importer": "sprite-frame",
       "rawTextureUuid": "567195c6-01f4-4625-85d2-7c9f4ccbc496",
       "trimType": "auto",
       "trimThreshold": 1,

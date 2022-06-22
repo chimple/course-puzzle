@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9a4cd829-38c2-4bad-bbb3-4e02f801a34f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "house-outline-tutorial": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "192c12f2-6e1e-4a65-94af-a6e7ff967981",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9a4cd829-38c2-4bad-bbb3-4e02f801a34f",
       "trimType": "auto",
       "trimThreshold": 1,

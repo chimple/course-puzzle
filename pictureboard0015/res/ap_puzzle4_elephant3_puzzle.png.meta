@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "325c38be-fdaa-4889-b7cf-70b104a3debf",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap_puzzle4_elephant3_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ef1823fb-ac4d-4e1c-95b2-1543d1df17b2",
+      "importer": "sprite-frame",
       "rawTextureUuid": "325c38be-fdaa-4889-b7cf-70b104a3debf",
       "trimType": "auto",
       "trimThreshold": 1,

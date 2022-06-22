@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d6e58c1d-1ff7-431d-995e-134f868d46ee",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "woodblock_3": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7eac9fdb-a5d0-4a03-ba46-db1a6e94424c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d6e58c1d-1ff7-431d-995e-134f868d46ee",
       "trimType": "auto",
       "trimThreshold": 1,

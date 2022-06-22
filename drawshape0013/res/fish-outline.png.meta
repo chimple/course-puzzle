@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "34542ae0-e2b9-406f-bd06-92c3fc9ea2de",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "fish-outline": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0c0d2e91-a5df-48a8-842f-7806c43376d1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "34542ae0-e2b9-406f-bd06-92c3fc9ea2de",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c32360f4-2498-4ce6-b807-73278adb7a6c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "findthematch_lv1_meerkat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4266bff7-db9d-464f-8e42-cd8acfc174f6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c32360f4-2498-4ce6-b807-73278adb7a6c",
       "trimType": "auto",
       "trimThreshold": 1,
