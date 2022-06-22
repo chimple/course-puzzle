@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2a5fed0a-6f7d-40b7-b4a2-03ef119f2f2a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "heart-outline-tutorial": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0180b76f-b9e3-4dbf-ad66-ef7c46947d62",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2a5fed0a-6f7d-40b7-b4a2-03ef119f2f2a",
       "trimType": "auto",
       "trimThreshold": 1,

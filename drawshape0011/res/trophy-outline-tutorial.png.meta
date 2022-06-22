@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4ff1c49e-75e7-44c5-b62e-28805a838a4d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "trophy-outline-tutorial": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8c034acf-a981-4bd2-9b3b-d4c250b5b4e9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4ff1c49e-75e7-44c5-b62e-28805a838a4d",
       "trimType": "auto",
       "trimThreshold": 1,

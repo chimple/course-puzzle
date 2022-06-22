@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e7f90869-8447-449c-ab9a-a8a393b56303",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap_puzzle6_squirrel1_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8b4dbfbd-0ea2-4dda-8bad-f7e147450cc2",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e7f90869-8447-449c-ab9a-a8a393b56303",
       "trimType": "auto",
       "trimThreshold": 1,

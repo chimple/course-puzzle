@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "61a9be50-bac5-464c-9036-5ddca85171ef",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "packman_zigzag1": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "16bba812-f6b0-49f6-9d4e-e07f90609991",
+      "importer": "sprite-frame",
       "rawTextureUuid": "61a9be50-bac5-464c-9036-5ddca85171ef",
       "trimType": "auto",
       "trimThreshold": 1,

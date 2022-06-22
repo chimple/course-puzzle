@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3955a1b0-ee47-4976-871d-b96c148b97c3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "snowman_halfright": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d861327e-67f5-4910-a030-a8805966af10",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3955a1b0-ee47-4976-871d-b96c148b97c3",
       "trimType": "auto",
       "trimThreshold": 1,

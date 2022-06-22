@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e7a32877-fee2-4adc-a6ce-b1670f879e5e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap_puzzle2_ladybug2_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "631ca1c7-fc3c-4046-94af-a3f23b935184",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e7a32877-fee2-4adc-a6ce-b1670f879e5e",
       "trimType": "auto",
       "trimThreshold": 1,

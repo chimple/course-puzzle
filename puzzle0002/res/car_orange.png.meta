@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "090006fe-1e47-4568-8059-f7b84356a804",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "car_orange": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "92fbe2e9-c794-40c9-8623-157c12a2ebf9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "090006fe-1e47-4568-8059-f7b84356a804",
       "trimType": "auto",
       "trimThreshold": 1,

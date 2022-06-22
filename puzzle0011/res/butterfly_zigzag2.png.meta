@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "11eb9c82-8764-43d8-a22a-c9a86e24fa22",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "butterfly_zigzag2": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c6fcb8f6-789b-4adb-bbb5-9634e5c9afe3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "11eb9c82-8764-43d8-a22a-c9a86e24fa22",
       "trimType": "auto",
       "trimThreshold": 1,

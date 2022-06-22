@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e96fc62e-fd63-494c-8ede-df2c0dd0149c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap2_puzzle5_dog_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "53981110-1988-4965-befd-5cd015c0fbc3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e96fc62e-fd63-494c-8ede-df2c0dd0149c",
       "trimType": "auto",
       "trimThreshold": 1,

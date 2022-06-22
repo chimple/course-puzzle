@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e2cca4b4-d10f-415a-bad1-ab6f3e8b478d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "findthematch_lv2_butterfly2": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "711f064d-7bee-4c89-90b6-35431be03acd",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e2cca4b4-d10f-415a-bad1-ab6f3e8b478d",
       "trimType": "auto",
       "trimThreshold": 1,

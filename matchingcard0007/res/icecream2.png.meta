@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "49ea3cf9-117c-427c-9378-b8177a54f71a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "icecream2": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "23b82fa6-c395-440c-adc3-63735e5c8739",
+      "importer": "sprite-frame",
       "rawTextureUuid": "49ea3cf9-117c-427c-9378-b8177a54f71a",
       "trimType": "auto",
       "trimThreshold": 1,

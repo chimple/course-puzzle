@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "89e48ab8-3e00-4082-b5a4-72b34c289704",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap_puzzle1_meerkat2_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "337b6fa5-0478-4646-b3ea-57ed959386b8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "89e48ab8-3e00-4082-b5a4-72b34c289704",
       "trimType": "auto",
       "trimThreshold": 1,

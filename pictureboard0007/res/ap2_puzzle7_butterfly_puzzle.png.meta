@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9284d917-0ef5-457b-941a-9e3dd958fe14",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap2_puzzle7_butterfly_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7c334b31-a549-4fd1-8a69-ee906187a59d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9284d917-0ef5-457b-941a-9e3dd958fe14",
       "trimType": "auto",
       "trimThreshold": 1,

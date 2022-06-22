@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e9dd817e-6ede-41f9-8763-23a828b55f7c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "shoes_orange": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2102d060-87f7-43d0-acd9-fd434b76bb8e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e9dd817e-6ede-41f9-8763-23a828b55f7c",
       "trimType": "auto",
       "trimThreshold": 1,
